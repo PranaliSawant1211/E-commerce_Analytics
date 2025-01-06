@@ -1,4 +1,4 @@
-ECOM CONNECT: E-commerce Analytics Dashboard | Google BigQuery, SQL
+ECOM CONNECT: E-commerce Analytics
 
 E-commerce has become a cornerstone of modern business, generating vast amounts of data from customer interactions, product sales, and logistics operations. This project, ECOM CONNECT, was designed to harness the power of data to drive smarter decision-making for e-commerce businesses. Using a dataset that included customer details, orders, product categories, sales, shipping details, and delivery statuses, I built an analytics solution to provide actionable insights. This project aimed to enhance resource planning, improve marketing strategies, and optimize operational efficiency by analyzing key metrics and trends in customer demand, sales performance, and logistics.
 
